@@ -2,7 +2,6 @@ import pigpio
 import DHT22
 from time import sleep
 from urllib.request import urlopen
-from twilio.rest import Client
 import re
 import smtplib
 
